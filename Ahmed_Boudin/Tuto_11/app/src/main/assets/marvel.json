@@ -1,0 +1,199 @@
+{
+  "marvel": [
+    {
+      "nom": "Sharon Carter (Agent 13)",
+      "drawable": "agent_13"
+    },
+
+    {
+      "nom": "Phil Coulson",
+      "drawable": "agent_coulson"
+    },
+
+    {
+      "nom": "Maria Hill",
+      "drawable": "agent_maria_hill"
+    },
+
+    {
+      "nom": "Ancient One",
+      "drawable": "ancient_one"
+    },
+
+    {
+      "nom": "Ant-Man",
+      "drawable": "ant_man"
+    },
+
+    {
+      "nom": "Ayesha",
+      "drawable": "ayesha"
+    },
+
+    {
+      "nom": "Black Panther",
+      "drawable": "black_panther"
+    },
+
+    {
+      "nom": "Black Widow",
+      "drawable": "black_widow"
+    },
+
+    {
+      "nom": "Captain America",
+      "drawable": "captain_america"
+    },
+
+    {
+      "nom": "Captain Stacy",
+      "drawable": "captain_stacy"
+    },
+
+    {
+      "nom": "Crossbones",
+      "drawable": "crossbones"
+    },
+
+    {
+      "nom": "Sandman",
+      "drawable": "sand_man"
+    },
+
+    {
+      "nom": "Doctor Octopus",
+      "drawable": "doctor_octopus"
+    },
+
+    {
+      "nom": "Doctor Strange",
+      "drawable": "doctor_strange"
+    },
+
+    {
+      "nom": "Drax",
+      "drawable": "drax"
+    },
+
+    {
+      "nom": "Falcon (Sam Wilson)",
+      "drawable": "falcon"
+    },
+
+    {
+      "nom": "Gamora",
+      "drawable": "gamora"
+    },
+
+    {
+      "nom": "Ghost Rider",
+      "drawable": "ghost_rider"
+    },
+
+    {
+      "nom": "Giant-Man",
+      "drawable": "giant_man"
+    },
+
+    {
+      "nom": "Green Goblin",
+      "drawable": "green_goblin"
+    },
+
+    {
+      "nom": "Groot",
+      "drawable": "groot"
+    },
+
+    {
+      "nom": "Hawkeye",
+      "drawable": "hawkeye"
+    },
+
+    {
+      "nom": "Hulk",
+      "drawable": "hulk"
+    },
+
+    {
+      "nom": "Hyperion",
+      "drawable": "hyperion"
+    },
+
+    {
+      "nom": "Iron Man",
+      "drawable": "iron_man"
+    },
+
+    {
+      "nom": "Red Skull",
+      "drawable": "red_skull"
+    },
+
+    {
+      "nom": "Justin Hammer",
+      "drawable": "justin_hammer"
+    },
+
+    {
+      "nom": "Baron Mordo",
+      "drawable": "karl_mordo"
+    },
+
+    {
+      "nom": "Rocket",
+      "drawable": "rocket"
+    },
+
+    {
+      "nom": "Scorpion",
+      "drawable": "scorpion"
+    },
+
+    {
+      "nom": "Spider Man",
+      "drawable": "spider_man"
+    },
+
+    {
+      "nom": "Star Lord",
+      "drawable": "star_lord"
+    },
+
+    {
+      "nom": "Taserface",
+      "drawable": "taserface"
+    },
+
+    {
+      "nom": "Thanos",
+      "drawable": "thanos"
+    },
+
+    {
+      "nom": "Ultron",
+      "drawable": "ultron"
+    },
+
+    {
+      "nom": "Vulture",
+      "drawable": "vulture"
+    },
+
+    {
+      "nom": "White Tiger",
+      "drawable": "white_tiger"
+    },
+
+    {
+      "nom": "Winter Soldier",
+      "drawable": "winter_soldier"
+    },
+
+    {
+      "nom": "Yondu Udonta",
+      "drawable": "yondu"
+    }
+
+  ]
+}
