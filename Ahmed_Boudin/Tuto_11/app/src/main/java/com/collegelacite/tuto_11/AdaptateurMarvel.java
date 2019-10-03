@@ -11,7 +11,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 /**
- * Created by mlavoi on 2018-04-02.
+ * Created by Boudin on the 2018-04-02.
  */
 
 public class AdaptateurMarvel extends BaseAdapter {
